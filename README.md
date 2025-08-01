@@ -41,7 +41,7 @@ Roaster-AI-Bot doesn’t sugarcoat anything — it roasts your laziness, calls o
 ## 🚀 Getting Started
 
 ### 1. Clone the Repo
-
+ 
 ```bash
 git clone https://github.com/ASHU191/Roaster-AI-Bot.git
 cd Roaster-AI-Bot
